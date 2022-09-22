@@ -29,6 +29,14 @@ var quizArr = [
   {
     question: "Who is my favorite player in cricket? ",
     answer: "sehwag"
+  },
+  {
+    question: "which is my fav fiction movie? ",
+    answer: "lord of the rings",
+  },
+  {
+    question: "what is my fav number? ",
+    answer: 37,
   }
 ]
 
